@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRXTrainerTools.iOS", "LRXTrainerTools.iOS\LRXTrainerTools.iOS.csproj", "{BA11007F-D27E-498D-B2FB-EFA97CC45482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Debug|iPhone.Build.0 = Debug|iPhone
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Release|iPhone.Build.0 = Release|iPhone
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BA11007F-D27E-498D-B2FB-EFA97CC45482}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
